@@ -10,6 +10,7 @@ public class Main {
         double distance = 10;
         int persent = 10;
 
+
         double sum = distance;
         for (int count = 1; count < 7; count++) {
             distance += distance / 100 * persent;
